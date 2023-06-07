@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/ItaloRochaOliveira">
       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira&theme=dark&show_icons=true)
-     [dark]: https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
+     ![dark]: https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
       
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloRochaOliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
