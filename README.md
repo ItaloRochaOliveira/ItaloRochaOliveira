@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/ItaloRochaOliveira">
-     [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ItaloRochaOliveira/ItaloRochaOliveira)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ItaloRochaOliveira/ItaloRochaOliveira)
+     [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ItaloRochaOliveira/ItaloRochaOliveira)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ItaloRochaOliveira/ItaloRochaOliveira)
       
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloRochaOliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
