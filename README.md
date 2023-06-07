@@ -1,5 +1,5 @@
 
-## Oiii eu sou o Italo Rocha Oliveira, estudante da Labenu e entusiasta da pragramação Web!
+## Oiii eu sou o Italo Rocha Oliveira, estudante da Labenu e entusiasta da programação Web!
 
 <div align="center">
   <a href="https://github.com/ItaloRochaOliveira">
