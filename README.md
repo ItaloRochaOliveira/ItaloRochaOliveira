@@ -1,9 +1,11 @@
 
 ## Oiii eu sou o Italo Rocha Oliveira, estudante da Labenu e entusiasta da programação Web!
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaloRochaOliveira&repo=github-readme-stats)]
+    
 
 <div align="center">
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaloRochaOliveira&repo=github-readme-stats)]
   <a href="https://github.com/ItaloRochaOliveira">
+      
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloRochaOliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
