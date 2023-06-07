@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/ItaloRochaOliveira">
-    <img>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira&show_icons=true&theme=transparent)</img>
+    <img>[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira&show_icons=true&theme=transparent)</img>
       
       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira)](https://github.com/anuraghazra/github-readme-stats)
       
