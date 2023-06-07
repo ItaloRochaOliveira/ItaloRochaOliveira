@@ -1,10 +1,19 @@
 
 ## Olá eu sou o Italo Rocha Oliveira, estudante da Labenu e entusiasta da programação Web!
     
-  ![ItaloRochaOliveira´s GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira&show_icons=true&theme=prussian#gh-prussian-mode-only)
-  [![ItaloRochaOliveira´s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloRochaOliveira&layout=donut&show_icons=true&theme=prussian#gh-prussian-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    
+<picture>
+<img src="https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira&show_icons=true&theme=prussian#gh-prussian-mode-only" width="52%"  />
+    
 
-  
+</picture>
+    <picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloRochaOliveira&layout=donut&show_icons=true&theme=prussian#gh-prussian-mode-only" width="36%" alt="ItaloRochaOliveira´s Top Langs"/>
+</picture>
+
+</div>
+
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Italo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
