@@ -1,5 +1,5 @@
 
-## Olá eu sou o Italo Rocha Oliveira, estudante da Labenu e entusiasta da programação Web!
+## Olá, meu nome é Italo. Sou um desenvolvedor web FullStack e apaixonado pela programação.
     
 <div align="center">
     
