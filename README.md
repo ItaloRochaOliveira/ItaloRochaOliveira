@@ -3,7 +3,7 @@
     
 
 <div align="center">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira)](https://github.com/ItaloRochaOliveira/ItaloRochaOliveira/blob/main/README.md)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira)
   <a href="https://github.com/ItaloRochaOliveira">
       
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloRochaOliveira&layout=compact&langs_count=7&theme=dracula"/>
