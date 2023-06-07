@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/ItaloRochaOliveira">
-      ![dark]: https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira
+     [dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
       
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloRochaOliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
