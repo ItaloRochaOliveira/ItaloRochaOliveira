@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/ItaloRochaOliveira">
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira&theme=dark&show_icons=true)
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
      ![dark]: https://github-readme-stats.vercel.app/api?username=ItaloRochaOliveira&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
       
       `transparent` ![transparent][transparent]
