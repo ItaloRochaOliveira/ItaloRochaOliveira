@@ -1,6 +1,22 @@
 
-## Olá, meu nome é Italo. Sou um desenvolvedor web FullStack e apaixonado pela programação.
-    
+## <div align="center"> Sobre </div>
+
+<p>Olá, meu nome é Italo. Sou um desenvolvedor web FullStack e apaixonado pela programação.</p>
+
+<p>
+Optei pela programação devido ao meu interesse de longa data por matemática e lógica. Desde sempre, acompanhei vídeos sobre desenvolvimento de jogos, inteligência artificial e criação de sites, o que gradualmente tornou meu fascínio por esses assuntos mais prático. Conforme mergulhei mais profundamente no desenvolvimento web, aprimorei minhas habilidades de maneira consistente.
+</p>
+
+<p>
+Sou apaixonado por estudar e absorver conhecimento, o que me levou a ter afinidade com essa área. Minha intenção é manter esse compromisso com a aprendizagem contínua e o aperfeiçoamento constante.
+</p>
+
+<p>
+Atualmente, sou estudante de Análise e Desenvolvimento na PUC e estou em busca do meu primeiro emprego na área. Estou comprometido em aprimorar minhas habilidades profissionais e, por isso, constantemente busco cursos especializados que agreguem valor à minha formação. Além disso, dedico-me a desenvolver uma variedade de projetos que me permitem vivenciar situações semelhantes às do cotidiano de um profissional nesse campo. Essa abordagem tem me permitido estar cada vez mais bem preparado para ingressar no mercado de trabalho.
+</p>
+
+##
+## <div align="center"> Status e linguagen utilizadas </div>
 <div align="center">
     
 <picture>
@@ -28,8 +44,10 @@
   <img align="center" alt="Italo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Italo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
+
+##
   
-  ##
+## <div align="center"> Contato </div>
  
 <div align="center">
   <a href = "mailto:italo.rocha.de.oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
