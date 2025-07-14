@@ -12,7 +12,7 @@ Sou apaixonado por estudar e absorver conhecimento, o que me levou a ter afinida
 </p>
 
 <p>
-Atualmente, sou estudante de Análise e Desenvolvimento na PUC e trabalhando como desenvolvedor back end em foco em nodejs.
+Atualmente, sou estudante de Análise e Desenvolvimento na PUC e trabalhando como desenvolvedor back end com foco em nodejs.
 </p>
 
 ##
