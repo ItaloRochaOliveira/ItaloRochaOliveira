@@ -12,7 +12,7 @@ Sou apaixonado por estudar e absorver conhecimento, o que me levou a ter afinida
 </p>
 
 <p>
-Atualmente, sou estudante de Análise e Desenvolvimento na PUC e estou em busca do meu primeiro emprego na área. Estou comprometido em aprimorar minhas habilidades profissionais e, por isso, constantemente busco cursos especializados que agreguem valor à minha formação. Além disso, dedico-me a desenvolver uma variedade de projetos que me permitem vivenciar situações semelhantes às do cotidiano de um profissional nesse campo. Essa abordagem tem me permitido estar cada vez mais bem preparado para ingressar no mercado de trabalho.
+Atualmente, sou estudante de Análise e Desenvolvimento na PUC e trabalhando como desenvolvedor back end em foco em nodejs.
 </p>
 
 ##
